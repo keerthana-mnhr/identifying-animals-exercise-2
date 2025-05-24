@@ -1,0 +1,6 @@
+jupyter
+ipykernel
+kagglehub
+tensorflow
+numpy
+scikit-learn
